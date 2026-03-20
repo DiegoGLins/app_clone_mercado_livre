@@ -29,9 +29,7 @@ O projeto utiliza:
 ## 📱 Preview
 
 > Interface inspirada no Mercado Livre com foco em usabilidade e organização de produtos.
-><img width="200" height="250" alt="counterCart" src="https://github.com/user-attachments/assets/521eba23-c729-4ba4-b70a-5f0d278011d9" />
-
-> 
+<img width="200" height="350" alt="counterCart" src="https://github.com/user-attachments/assets/521eba23-c729-4ba4-b70a-5f0d278011d9" />
 
 ---
 
